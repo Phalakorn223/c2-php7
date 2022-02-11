@@ -1,7 +1,7 @@
 //define variable
 let hello = "Hello";
-//define function:Annonymous
-hi = function (){//collee
+//define function:Anonymous
+function hi(){//collee
     return `Hello:${hello}`;
 }
-console.log (hi());
+console.log(hi());

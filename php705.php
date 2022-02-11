@@ -1,6 +1,6 @@
 <?php
 $message = function(){
-    return "Lamda";
+    return "Lamba";
 };
 //Closer
 echo get_class($message);

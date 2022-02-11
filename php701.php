@@ -1,7 +1,7 @@
 <?php
 //Define a function
-function multiple($x,$y){
-    echo "Hello World.: x = $x , y = $y<br />";
+function multiple($a,$b){
+    echo "Hello World : x= $a , $b <br />";
 }
 
 //Function Call
